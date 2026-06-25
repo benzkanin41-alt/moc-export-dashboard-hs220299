@@ -7,8 +7,8 @@ Static GitHub Pages dashboard for Thailand export statistics from the Ministry o
 - Product: เครื่องดื่มอื่นๆ
 - HS Code: 220299
 - Source: https://tradereport.moc.go.th/th/stat/reporthscodeexport01
-- Coverage: 2021-01 to 2026-04
-- Latest source month: เม.ย. 2569
+- Coverage: 2021-01 to 2026-05
+- Latest source month: พ.ค. 2569
 - Metrics: export value and quantity
 - Breakdowns: total, country, continent
 - Periods: monthly, quarterly, yearly
@@ -29,8 +29,8 @@ The build reconciles country-level rows to the MOC world summary row by month.
 
 Current validation from the generated dataset:
 
-- Months fetched: 64
-- Country-month rows: 7,371
+- Months fetched: 65
+- Country-month rows: 7,493
 - Max value diff: 0
 - Max quantity diff: 0
 
